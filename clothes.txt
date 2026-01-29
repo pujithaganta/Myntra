@@ -3,3 +3,5 @@ clothes:
  tops
  kurti sets
  pyjamas
+sarees
+corset tops
